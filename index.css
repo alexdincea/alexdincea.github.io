@@ -165,8 +165,8 @@
     transform: :translate(-50%, -50%);
   }
   .main h2{
-    margin 0;
-    padding:0;
+    margin 0%;
+    padding:0%;
     color: #fff;
     font-size: 60px;
     text-shadow:0 2px 0 rgba(0,0,0,.5);
@@ -180,7 +180,7 @@
 
   .main a{
     background: #25d366
-    padding: 10pxa; 25px;
+    padding: 10px; 25px;
     border-radius: 5px;
     text-decoration: none;
     color: #fff;
