@@ -1,0 +1,221 @@
+  .header{
+        background-image: url(https://imgur.com/6nVctMC.png);
+        height: 100%;
+        width: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    body{
+        margin: 0;
+        padding: 0;
+        font-family: "Open Sans", sans-serif;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        perspective: 500px;
+      }
+      
+      .text{
+        cursor: pointer;
+        position:absolute;
+        color: white;
+        left:46.5%;
+        top:30%
+      }
+      
+      
+      .text:hover, .box:hover{
+        animation: flipV 1s linear;
+      }
+      
+      @keyframes flipV{
+        50%{
+          transform: rotateX(180deg);
+        }
+        to{
+          transform: rotateX(360deg);
+        }
+      }
+      
+      @keyframes flipH{
+        50%{
+          transform: rotateY(180deg);
+        }
+        to{
+          transform: rotateY(360deg);
+        }
+      }
+
+      .myButton {
+        border-radius:28px;
+        border:1px solid #ffffff;
+        display:inline-block;
+        cursor:pointer;
+        position: absolute;
+        top:41%;
+        left:48.5%;
+        color:#ffffff;
+        font-family:Arial;
+        font-size:17px;
+        padding:16px 31px;
+        text-decoration:none;
+        text-shadow:0px 1px 0px #2f6627;
+    }
+    .myButton:hover {
+        background-color:#ffffff;
+        color:#000;
+    }
+
+    .myButton2 {
+        border-radius:28px;
+        border:1px solid #ffffff;
+        display:inline-block;
+        cursor:pointer;
+        position: absolute;
+        top:41%;
+        left:62%;
+        color:#ffffff;
+        font-family:Arial;
+        font-size:17px;
+        padding:16px 31px;
+        text-decoration:none;
+        text-shadow:0px 1px 0px #2f6627;
+    }
+    .myButton2:hover {
+        background-color:#ffffff;
+        color:#000;
+    }
+
+    ul{
+        float: right;
+        list-style-type: none;
+        padding:0px 10px;
+        margin-top:25px;
+        
+    }
+    
+    ul li{
+        display: inline-block;
+    }
+    ul li a{
+        text-decoration: none;
+        color: #fff;
+        padding: 5px 20px;
+        border: 1px solid #fff;
+        transition:0.6s ease;
+    }
+    ul li a:hover{
+        background-color:#fff;
+        color:#000;
+    }
+
+    img{
+      position:absolute;
+      border-radius: 50%;
+      top:30%;
+      left:35%;
+      width:150px;
+      border: 1px solid black;
+      height:150px;
+    }
+
+    .citat{
+      position:absolute;
+      top: 35%;
+      left: 49.5%;
+      color: black;
+    }
+
+  .contact1{
+      position: absolute;
+      top:48%;
+      left:51.5%;
+  }
+  .contact2{
+      position: absolute;
+      top:48%;
+      left:55.5%;
+  }
+  .contact3{
+      position: absolute;
+      top:48%;
+      left:59.5%;
+  }
+  .contact4{
+      position: absolute;
+      top:48%;
+      left:63.5%;
+  }
+
+  body {
+    margin:0;
+    padding: 0;
+    height: 100vh;
+    background-position: center;
+    font-family: sans-serif;
+  }
+
+  .main{
+    position:absolute;
+    top:55%;
+    left: 10%;
+    transform: :translate(-50%, -50%);
+  }
+  .main h2{
+    margin 0;
+    padding:0;
+    color: #fff;
+    font-size: 60px;
+    text-shadow:0 2px 0 rgba(0,0,0,.5);
+  }
+
+  .main p{
+    color: #fff;
+    font-size: 22px;
+    line-height: 35px;
+  }
+
+  .main a{
+    background: #25d366
+    padding: 10pxa; 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #fff;
+    margin-top:30px;
+    display: inline-block;
+  }
+  span:before{
+    content: '';
+    animation: animate infinite 8s;
+  }
+  @keyframes animate{
+    0%
+    {
+      content: 'Designer';
+      color: #000
+    }
+    20%
+    {
+      content: 'Developer';
+      color: #000
+    }
+    40%
+    {
+      content: 'Editor';
+      color: #000
+    }
+    60%
+    {
+      content: 'Web Developer';
+      color: #000
+    }
+    80%
+    {
+      content: 'Lua Scripter';
+      color: #000
+    }
+  }
+  
