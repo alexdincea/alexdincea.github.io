@@ -15,7 +15,7 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        perspective: 500px;
+        perspective: 500%;
       }
       
       .text{
@@ -50,8 +50,8 @@
       }
 
       .myButton {
-        border-radius:28px;
-        border:1px solid #ffffff;
+        border-radius:28%;
+        border:1% solid #ffffff;
         display:inline-block;
         cursor:pointer;
         position: absolute;
@@ -59,10 +59,10 @@
         left:48.5%;
         color:#ffffff;
         font-family:Arial;
-        font-size:17px;
-        padding:16px 31px;
+        font-size:17%;
+        padding:16% 31%;
         text-decoration:none;
-        text-shadow:0px 1px 0px #2f6627;
+        text-shadow:0% 1% 0% #2f6627;
     }
     .myButton:hover {
         background-color:#ffffff;
@@ -70,8 +70,8 @@
     }
 
     .myButton2 {
-        border-radius:28px;
-        border:1px solid #ffffff;
+        border-radius:28%;
+        border:1% solid #ffffff;
         display:inline-block;
         cursor:pointer;
         position: absolute;
@@ -79,10 +79,10 @@
         left:62%;
         color:#ffffff;
         font-family:Arial;
-        font-size:17px;
-        padding:16px 31px;
+        font-size:17%;
+        padding:16% 31%;
         text-decoration:none;
-        text-shadow:0px 1px 0px #2f6627;
+        text-shadow:0% 1% 0% #2f6627;
     }
     .myButton2:hover {
         background-color:#ffffff;
@@ -92,8 +92,8 @@
     ul{
         float: right;
         list-style-type: none;
-        padding:0px 10px;
-        margin-top:25px;
+        padding:0% 10%;
+        margin-top:25%;
         
     }
     
@@ -103,8 +103,8 @@
     ul li a{
         text-decoration: none;
         color: #fff;
-        padding: 5px 20px;
-        border: 1px solid #fff;
+        padding: 5% 20%;
+        border: 1% solid #fff;
         transition:0.6s ease;
     }
     ul li a:hover{
@@ -117,9 +117,9 @@
       border-radius: 50%;
       top:30%;
       left:35%;
-      width:150px;
-      border: 1px solid black;
-      height:150px;
+      width:150%;
+      border: 1% solid black;
+      height:150%;
     }
 
     .citat{
@@ -168,23 +168,23 @@
     margin 0;
     padding:0;
     color: #fff;
-    font-size: 60px;
-    text-shadow:0 2px 0 rgba(0,0,0,.5);
+    font-size: 60%;
+    text-shadow:0 2% 0 rgba(0,0,0,.5);
   }
 
   .main p{
     color: #fff;
-    font-size: 22px;
-    line-height: 35px;
+    font-size: 22%;
+    line-height: 35%;
   }
 
   .main a{
     background: #25d366
-    padding: 10pxa; 25px;
-    border-radius: 5px;
+    padding: 10%a; 25%;
+    border-radius: 5%;
     text-decoration: none;
     color: #fff;
-    margin-top:30px;
+    margin-top:30%;
     display: inline-block;
   }
   span:before{
