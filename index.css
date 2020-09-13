@@ -161,7 +161,7 @@
   .main{
     position:absolute;
     top:50%;
-    left: 20%;
+    left: 50%;
     transform :translate(-50%, -50%);
   }
   .main h2{
