@@ -115,8 +115,8 @@
     img{
       position:absolute;
       border-radius: 50%;
-      top:30%;
-      left:35%;
+      top:30px;
+      left:35px;
       width:150%;
       border: 1% solid black;
       height:150%;
