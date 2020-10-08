@@ -22,6 +22,7 @@
         cursor: pointer;
         position:absolute;
         color: white;
+        font-family: Comic Sans MS;
         left:46.8%;
         top:30%
       }
@@ -125,6 +126,7 @@
     .citat{
       position:absolute;
       top: 35%;
+      font-family: Comic Sans MS;
       left: 49.5%;
       color: black;
     }
