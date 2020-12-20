@@ -90,7 +90,7 @@ a:focus {
 }
 
 .custom_nav-container .nav_search-btn {
-  background-image: url(../images/search-icon.png);
+  background-image: url(../images1/search-icon.png);
   background-size: 22px;
   background-repeat: no-repeat;
   background-position-y: 7px;
@@ -131,7 +131,7 @@ a:focus {
 }
 
 .custom_nav-container .navbar-toggler .navbar-toggler-icon {
-  background-image: url(../images/menu.png);
+  background-image: url(../images1/menu.png);
   background-size: 55px;
 }
 
@@ -237,17 +237,17 @@ a:focus {
 
 .slider_section .carousel-control-prev {
   left: 2%;
-  background-image: url(../images/prev.png);
+  background-image: url(../images1/prev.png);
 }
 
 .slider_section .carousel-control-next {
   right: 2%;
-  background-image: url(../images/next.png);
+  background-image: url(../images1/next.png);
 }
 
 /* end slider section */
 .bg {
-  background-image: url(../images/bg.jpg);
+  background-image: url(../images1/bg.jpg);
   background-size: cover;
 }
 
@@ -312,23 +312,23 @@ a:focus {
 }
 
 .brand_img-box.item-1 {
-  background-image: url(../images/item-1.jpg);
+  background-image: url(../images1/item-1.jpg);
 }
 
 .brand_img-box.item-2 {
-  background-image: url(../images/item-2.jpg);
+  background-image: url(../images1/item-2.jpg);
 }
 
 .brand_img-box.item-3 {
-  background-image: url(../images/item-3.jpg);
+  background-image: url(../images1/item-3.jpg);
 }
 
 .brand_img-box.item-4 {
-  background-image: url(../images/item-4.jpg);
+  background-image: url(../images1/item-4.jpg);
 }
 
 .brand_img-box.item-5 {
-  background-image: url(../images/item-5.jpg);
+  background-image: url(../images1/item-5.jpg);
 }
 
 .brand_img-box {
@@ -516,18 +516,18 @@ a:focus {
 
 .client_section .carousel-control-prev {
   left: 2%;
-  background-image: url(../images/prev.png);
+  background-image: url(../images1/prev.png);
 }
 
 .client_section .carousel-control-next {
   right: 2%;
-  background-image: url(../images/next.png);
+  background-image: url(../images1/next.png);
 }
 
 .contact_section {
   color: #fff;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.3))), url(../images/contact.jpg);
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../images/contact.jpg);
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.3))), url(../images1/contact.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../images1/contact.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -643,15 +643,15 @@ a:focus {
 }
 
 .info_items .item .img-box.box-1 {
-  background-image: url(../images/location-blue.png);
+  background-image: url(../images1/location-blue.png);
 }
 
 .info_items .item .img-box.box-2 {
-  background-image: url(../images/telephone-blue.png);
+  background-image: url(../images1/telephone-blue.png);
 }
 
 .info_items .item .img-box.box-3 {
-  background-image: url(../images/envelope-blue.png);
+  background-image: url(../images1/envelope-blue.png);
 }
 
 .info_items .item .img-box:hover {
@@ -659,15 +659,15 @@ a:focus {
 }
 
 .info_items .item .img-box:hover.box-1 {
-  background-image: url(../images/location-white.png);
+  background-image: url(../images1/location-white.png);
 }
 
 .info_items .item .img-box:hover.box-2 {
-  background-image: url(../images/telephone-white.png);
+  background-image: url(../images1/telephone-white.png);
 }
 
 .info_items .item .img-box:hover.box-3 {
-  background-image: url(../images/envelope-white.png);
+  background-image: url(../images1/envelope-white.png);
 }
 
 /* footer section*/
